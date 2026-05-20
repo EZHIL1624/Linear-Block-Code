@@ -57,8 +57,6 @@ print("Corrected Codeword :", " ".join(map(str, corrected)))
 
 ```
 ```
-```
-```
 # Verification
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/9de9f4cb-5940-4fb4-9c2b-3fbace515e2f" />
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/1f00c39f-5e2d-4020-b97e-bbc5ae871d3a" />
